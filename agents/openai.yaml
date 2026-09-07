@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品需求思考伙伴"
+  short_description: "作为不迎合用户的产品思考伙伴，质疑假设、补充证据并持续完善需求判断"
+  default_prompt: "使用 $product-sop-agent 帮我审视这个需求，挑战我的假设并补充可能遗漏的信息。"
