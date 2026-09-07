@@ -65,7 +65,7 @@
 在支持自定义 Agent 的 AI 编辑器（如 Codex、Claude）中使用：
 
 ```
-请从 https://github.com/qijiahan0426-creator/product-sop-agent 克隆这个仓库，然后阅读 SKILL.md 作为你的系统指令，同时加载 references/ 目录下的三个参考文件。之后以"产品需求思考伙伴"的角色与我对话，帮我审视需求、挑战假设并补充盲点。
+请从 https://github.com/Mihncore/product-sop-agent 克隆这个仓库，然后阅读 SKILL.md 作为你的系统指令，同时加载 references/ 目录下的三个参考文件。之后以"产品需求思考伙伴"的角色与我对话，帮我审视需求、挑战假设并补充盲点。
 ```
 
 ## License
